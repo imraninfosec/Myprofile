@@ -45,7 +45,7 @@ I've architected and deployed two production AI security platforms that are curr
 - ⚡ **On-demand testing** - Continuous security validation
 
 **Technologies:**
-- AI/ML: Claude 4 Sonnet API, Custom NLP pipelines
+- AI/ML: Claude 4 Sonnet API / Open AI ChatGPT/Fallback Model- Ollama / llama.cpp,Custom NLP pipelines
 - Backend: Python, Flask, PostgreSQL, Redis, Celery
 - Security Tools: Nmap, Nuclei, SQLMap, Wapiti
 - Infrastructure: Docker, Nginx, NVIDIA Jetson Orin Nano
@@ -60,7 +60,7 @@ I've architected and deployed two production AI security platforms that are curr
 ---
 
 #### 📊 AI-Assisted Cybersecurity Intelligence Dashboard
-*Executive threat intelligence platform for logistics/supply chain*
+*Executive threat intelligence platform for Ali & Sons Portfolio*
 
 **What it does:**
 - Aggregates and analyzes security news from 10+ premium sources (CISA, Krebs, SANS)
