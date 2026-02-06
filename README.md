@@ -33,7 +33,7 @@ I've architected and deployed two production AI security platforms that are curr
 
 **What it does:**
 - Automates vulnerability discovery across network, web, and cloud infrastructure
-- Uses AI (Claude 4 Sonnet) for intelligent vulnerability analysis and false positive reduction
+- Uses AI (Claude 4 Sonnet) / Open AI ChatGPT / Ollama and llama.cpp for intelligent vulnerability analysis and false positive reduction
 - Generates compliance-ready reports aligned to UAE-IA, ISO 27001, NESA, ADHICS
 - Deployed on NVIDIA Jetson edge devices for autonomous operation
 
