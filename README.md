@@ -205,12 +205,6 @@ I'm interested in roles that combine **AI/ML security**, **cloud security archit
 
 ---
 
-### 📊 GitHub Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
-
----
-
 **⭐ Building AI-powered security solutions that eliminate costs while enhancing protection.**
 
 *"The best security is the one that runs autonomously and costs nothing to operate."*
