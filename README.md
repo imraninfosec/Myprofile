@@ -197,7 +197,7 @@ I'm interested in roles that combine **AI/ML security**, **cloud security archit
 
 ### 💬 Fun Facts
 
-- 🌍 Built security solutions serving executives in logistics/supply chain industry
+- 🌍 Built security solutions serving executives in automotive distribution, oil & gas and industrial services, construction, real estate, retail, and strategic investments.
 - 🎓 M.Sc. in Cyber Forensics & Information Security
 - 🏗️ Pioneered edge AI deployment for autonomous security testing
 - 💡 Passionate about FinOps and cost-effective AI architectures
